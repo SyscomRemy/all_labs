@@ -1,0 +1,27 @@
+[submodule "lab10_c"]
+	path = lab10_c
+	url = https://github.com/SyscomRemy/lab10.git
+[submodule "lab9_c"]
+	path = lab9_c
+	url = https://github.com/SyscomRemy/lab9.git
+[submodule "lab8_c"]
+	path = lab8_c
+	url = https://github.com/SyscomRemy/lab8.git
+[submodule "lab7_c"]
+	path = lab7_c
+	url = https://github.com/SyscomRemy/lab7.git
+[submodule "lab6_c"]
+	path = lab6_c
+	url = https://github.com/SyscomRemy/lab6.git
+[submodule "lab5_c"]
+	path = lab5_c
+	url = https://github.com/SyscomRemy/lab5.git
+[submodule "lab4_c"]
+	path = lab4_c
+	url = https://github.com/SyscomRemy/lab4.git
+[submodule "lab3_c"]
+	path = lab3_c
+	url = https://github.com/SyscomRemy/lab3.git
+[submodule "lab2_c"]
+	path = lab2_c
+	url = https://github.com/SyscomRemy/lab2.git
